@@ -1,0 +1,11 @@
+json\LoginInput.class
+json\ConnectionManager.class
+json\Admin.class
+json\UserController.class
+json\Jobs.class
+json\JobController.class
+json\AuthenticationResponse.class
+json\Applicant.class
+json\AdminController.class
+json\User.class
+json\ApplicantController.class
